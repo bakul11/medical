@@ -1,0 +1,93 @@
+@media all and (max-width : 991px){
+	.banner{
+		height:700px;
+	}
+	.health-text{
+		margin-top:40px;
+	}
+	.counter {
+		height:660px;
+	}
+	.client {
+		height:900px;
+	}
+}
+
+
+
+
+
+
+
+
+@media all and (max-width : 767px){
+	.banner{
+		height:800px;
+	}
+	.banner-content {
+		width:100%;
+		float:left;
+	}
+	.about-content {
+		width:100%;
+		float:left;
+	}
+	.counter {
+		height:1160px;
+	}
+	.client {
+		height:1200px;
+	}
+	.client-area {
+		padding: 50px 10px;
+	}
+}
+
+@media all and (max-width : 453px){
+	.wellcome-social{
+		display:block;
+		margin:10px auto;
+	}
+	.wellcome {
+		padding: 80px 20px;
+		background: #F8F9FA;
+	}
+	
+	.health {
+		padding: 100px 20px;
+	}
+	
+	.health-pic img{
+		height:auto;
+		margin:40px auto;
+	}
+	
+	.counter {
+		height:1200px;
+	}
+	
+	.counter-box {
+		padding: 38px 10px;
+	}
+	
+	.blog {
+		padding: 70px 10px 0px 10px;
+	}
+}
+
+
+@media all and (max-width : 385px){
+	.client {
+		height:1300px;
+	}
+}
+
+@media all and (max-width : 353px){
+	.client-thub{
+		display:block;
+		margin:20px auto;
+	}
+	.client {
+		height:1600px;
+	}
+}
